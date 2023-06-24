@@ -1,4 +1,4 @@
-  body
+ body
 {
     text-align: center;
     color: white;
@@ -7,39 +7,39 @@
 .heading
 {
     margin-top: 5px;
-    font-size: 60px;
-    padding-bottom: 30px;
+    font-size: 20px;
+    padding-bottom: 15px;
 }
 
 .dateTime label
 {
-    font-size: 35px;
-    margin: 0.2rem;
-    padding-bottom: 15px;
+    font-size: 20px;
+    margin: 0.1rem;
+    padding-bottom: 10px;
 }
 .dateTime input
 {
-    font-size: 15px;
-    margin: 8px;
+    font-size: 10px;
+    margin: 5px;
     padding: 5px 10px;
     border: 1.5px solid black;
     border-radius: 5px;
 }
 button
 {
-    height: 40px;
-    width: 255px;
-    font-size: larger;
-    margin: 20px 5px;
+    height: 35px;
+    width: 245px;
+    font-size: large;
+    margin: 10px 5px;
     padding: 5px 10px;
-    margin-top: 35px;
+    margin-top: 20px;
     border: 2px solid black;
     border-radius: 5px;
 }
 #stop, #reset{
     height: 30px;
     width: 150px;
-    margin: 20px 5px;
+    margin: 10px 5px;
     padding: 5px 10px;
     border: 2px solid black;
     border-radius: 5px;
@@ -55,8 +55,8 @@ button:hover{
 }
 .innerContainer
 {
-    margin: 15px;
-    margin-top: 80px;
+    margin: 10px;
+    margin-top: 40px;
 }
 .innerContainer input
 {
