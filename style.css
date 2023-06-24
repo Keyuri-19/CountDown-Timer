@@ -1,0 +1,87 @@
+body
+{
+    text-align: center;
+    color: white;
+}
+
+.heading
+{
+    margin-top: 0rem;
+    font-size: 6rem;
+}
+
+.dateTime label
+{
+    font-size: 2rem;
+    margin: 0.5rem;
+}
+.dateTime input
+{
+    font-size: 20px;
+    margin: 10px;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button
+{
+    height: 2rem;
+    font-size: 1rem;
+    width: 15rem;
+    margin: 20px 5px;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#stop, #reset{
+    height: 2rem;
+    width: 8rem;
+    margin: 20px 5px;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button:hover{
+    color: deeppink;
+    font-style: italic;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.innerContainer
+{
+    margin: 1rem;
+}
+.innerContainer input
+{
+    height: 13vw;
+    width: 13vw;
+    color: white;
+    border-radius: 20rem;
+    background: transparent;
+    border: 0.2rem solid black;
+    text-align: center;
+    font-size: 8rem;
+}
+.name{
+    font-size: 1.5rem;
+}
+
+#bgVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .content {
+    position: fixed;
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 10px;
+    margin-top: 0rem;
+  }
