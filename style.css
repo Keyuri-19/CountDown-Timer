@@ -7,13 +7,13 @@ body
 .heading
 {
     margin-top: 0rem;
-    font-size: 3rem;
+    font-size: 1.5rem;
 }
 
 .dateTime label
 {
-    font-size: 1rem;
-    margin: 0.5rem;
+    font-size: 0.5rem;
+    margin: 0.2rem;
 }
 .dateTime input
 {
@@ -25,17 +25,17 @@ body
 }
 button
 {
-    height: 1rem;
-    font-size: 0.5rem;
-    width: 10rem;
+    height: 0.7rem;
+    font-size: 0.3rem;
+    width: 8rem;
     margin: 20px 5px;
     padding: 5px 10px;
     border: 2px solid black;
     border-radius: 5px;
 }
 #stop, #reset{
-    height: 1.5rem;
-    width: 6rem;
+    height: 1rem;
+    width: 5rem;
     margin: 20px 5px;
     padding: 5px 10px;
     border: 2px solid black;
@@ -52,21 +52,21 @@ button:hover{
 }
 .innerContainer
 {
-    margin: 0.5rem;
+    margin: 0.3rem;
 }
 .innerContainer input
 {
-    height: 15vw;
-    width: 15vw;
+    height: 13vw;
+    width: 13vw;
     color: white;
     border-radius: 20rem;
     background: transparent;
     border: 0.1rem solid black;
     text-align: center;
-    font-size: 6rem;
+    font-size: 4rem;
 }
 .name{
-    font-size: 1rem;
+    font-size: 0.5rem;
 }
 
 #bgVideo {
