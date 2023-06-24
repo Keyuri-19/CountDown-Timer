@@ -6,20 +6,20 @@
 
 .heading
 {
-    margin-top: 5px;
-    font-size: 20px;
-    padding-bottom: 15px;
+    margin-top: 3px;
+    font-size: 15px;
+    padding-bottom: 10px;
 }
 
 .dateTime label
 {
-    font-size: 20px;
+    font-size: 10px;
     margin: 0.1rem;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
 }
 .dateTime input
 {
-    font-size: 10px;
+    font-size: 8px;
     margin: 5px;
     padding: 5px 10px;
     border: 1.5px solid black;
@@ -32,7 +32,7 @@ button
     font-size: large;
     margin: 10px 5px;
     padding: 5px 10px;
-    margin-top: 20px;
+    margin-top: 10px;
     border: 2px solid black;
     border-radius: 5px;
 }
@@ -56,7 +56,7 @@ button:hover{
 .innerContainer
 {
     margin: 10px;
-    margin-top: 40px;
+    margin-top: 15px;
 }
 .innerContainer input
 {
@@ -70,7 +70,7 @@ button:hover{
     font-size: 150px;
 }
 .name{
-    font-size: 30px;
+    font-size: 15px;
 }
 
 #bgVideo {
@@ -85,7 +85,7 @@ button:hover{
     position: fixed;
     color: #ffffff;
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     align-items: center;
     margin-top: rem;
   }
