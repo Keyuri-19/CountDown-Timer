@@ -1,0 +1,91 @@
+body
+{
+    text-align: center;
+    color: white;
+}
+
+.heading
+{
+    margin-top: 3px;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.dateTime label
+{
+    font-size: 10px;
+    margin: 0.1rem;
+    padding-bottom: 8px;
+}
+.dateTime input
+{
+    font-size: 8px;
+    margin: 5px;
+    padding: 5px 10px;
+    border: 1.5px solid black;
+    border-radius: 5px;
+}
+button
+{
+    height: 25px;
+    width: 245px;
+    font-size:medium;
+    margin: 10px 5px;
+    padding: 5px 10px;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#stop, #reset{
+    height: 25px;
+    width: 150px;
+    margin: 10px 5px;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button:hover{
+    color: deeppink;
+    font-style: italic;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.innerContainer
+{
+    margin: 10px;
+    margin-top: 15px;
+}
+.innerContainer input
+{
+    height: 8vw;
+    width: 8vw;
+    color: white;
+    border-radius: 20rem;
+    background: transparent;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 150px;
+}
+.name{
+    font-size: 15px;
+}
+
+#bgVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .content {
+    position: fixed;
+    color: #ffffff;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+    margin-top: rem;
+  }
